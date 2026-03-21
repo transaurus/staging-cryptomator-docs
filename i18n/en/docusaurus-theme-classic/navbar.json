@@ -1,0 +1,34 @@
+{
+  "title": {
+    "message": "CRYPTOMATOR",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Cryptomator Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Desktop": {
+    "message": "Desktop",
+    "description": "Navbar item with label Desktop"
+  },
+  "item.label.Android": {
+    "message": "Android",
+    "description": "Navbar item with label Android"
+  },
+  "item.label.iOS": {
+    "message": "iOS",
+    "description": "Navbar item with label iOS"
+  },
+  "item.label.Hub": {
+    "message": "Hub",
+    "description": "Navbar item with label Hub"
+  },
+  "item.label.Security": {
+    "message": "Security",
+    "description": "Navbar item with label Security"
+  },
+  "item.label.Misc": {
+    "message": "Misc",
+    "description": "Navbar item with label Misc"
+  }
+}
