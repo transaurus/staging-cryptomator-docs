@@ -40,4 +40,18 @@ else
   exit 1
 fi
 
+# Build Docusaurus site
+echo "Building Docusaurus site..."
+npm run build
+
+# Verify build output
+if [ -d "build" ] && [ "$(ls -A build)" ]; then
+  echo "Build successful!"
+  echo "Build directory contains:"
+  ls -la build/
+else
+  echo "Build failed or build directory is empty"
+  exit 1
+fi
+
 echo "Setup complete!"
