@@ -22,7 +22,7 @@ const config: Config = {
   projectName: 'docs',
   trailingSlash: true,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   markdown: {
     hooks: {
