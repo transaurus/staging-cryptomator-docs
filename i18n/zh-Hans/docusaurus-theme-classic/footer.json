@@ -1,0 +1,62 @@
+{
+  "link.title.Cryptomator": {
+    "message": "Cryptomator",
+    "description": "The title of the footer links column with title=Cryptomator in the footer"
+  },
+  "link.title.Contribute": {
+    "message": "Contribute",
+    "description": "The title of the footer links column with title=Contribute in the footer"
+  },
+  "link.title.Follow Us": {
+    "message": "Follow Us",
+    "description": "The title of the footer links column with title=Follow Us in the footer"
+  },
+  "link.title.Legal": {
+    "message": "Legal",
+    "description": "The title of the footer links column with title=Legal in the footer"
+  },
+  "link.item.label.Website": {
+    "message": "Website",
+    "description": "The label of footer link with label=Website linking to https://cryptomator.org/"
+  },
+  "link.item.label.Community": {
+    "message": "Community",
+    "description": "The label of footer link with label=Community linking to https://community.cryptomator.org/"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/cryptomator"
+  },
+  "link.item.label.Donate": {
+    "message": "Donate",
+    "description": "The label of footer link with label=Donate linking to https://cryptomator.org/donate/"
+  },
+  "link.item.label.Translate": {
+    "message": "Translate",
+    "description": "The label of footer link with label=Translate linking to https://translate.cryptomator.org/"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to https://cryptomator.org/blog/"
+  },
+  "link.item.label.Mastodon": {
+    "message": "Mastodon",
+    "description": "The label of footer link with label=Mastodon linking to https://mastodon.online/@cryptomator"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "The label of footer link with label=LinkedIn linking to https://linkedin.com/company/skymatic"
+  },
+  "link.item.label.Impressum": {
+    "message": "Impressum",
+    "description": "The label of footer link with label=Impressum linking to https://cryptomator.org/impressum/"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "Privacy Policy",
+    "description": "The label of footer link with label=Privacy Policy linking to https://cryptomator.org/privacy/"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 cryptomator.org. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

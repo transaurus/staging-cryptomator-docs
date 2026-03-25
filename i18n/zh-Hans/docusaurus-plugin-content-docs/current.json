@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Desktop": {
+    "message": "Desktop",
+    "description": "The label for category 'Desktop' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Android": {
+    "message": "Android",
+    "description": "The label for category 'Android' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.iOS": {
+    "message": "iOS",
+    "description": "The label for category 'iOS' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Hub": {
+    "message": "Hub",
+    "description": "The label for category 'Hub' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Security": {
+    "message": "Security",
+    "description": "The label for category 'Security' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Misc": {
+    "message": "Misc",
+    "description": "The label for category 'Misc' in sidebar 'docs'"
+  }
+}
